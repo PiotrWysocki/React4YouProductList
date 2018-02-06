@@ -1,0 +1,33 @@
+body {
+    padding: 5px;
+}
+
+.search-bar {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.main {
+    width: 250px;
+    border: thin dashed grey;
+}
+
+.product-table {
+    width: 210px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-top: thin solid grey;
+}
+
+td {
+    text-align: left;
+    border-top: thin dashed grey;
+}
+
+tbody th {
+    border-top: thin solid grey;
+}
